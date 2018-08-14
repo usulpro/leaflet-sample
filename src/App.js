@@ -122,6 +122,8 @@ class App extends Component {
         <button onClick={this.switchMarkes('GM1')} style={btnStyle}>GM1</button>
         <button onClick={this.switchMarkes('GM2')} style={btnStyle}>GM2</button>
         <button onClick={this.switchMarkes('GM3')} style={btnStyle}>GM3</button>
+        <br/>
+        <a href="https://github.com/UsulPro/leaflet-sample" target="_blank">repo</a>
       </div>
     );
   }
